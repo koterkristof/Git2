@@ -21,4 +21,6 @@ https://github.com/koterkristof/Git2
 ✅ Kész
 ⚠️ Figyelmeztetés
 # 7. Megjegyzések
-<! [Alternatív szöveg]>
+<!--
+Ez egy megjegyzés
+-->
