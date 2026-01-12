@@ -20,6 +20,6 @@ https://github.com/koterkristof/Git2
 :rocket:
 :white_check_mark:
 :x:
-## 7. Idézetek (Blockquote)
+# 7. Idézetek (Blockquote)
 > Ez egy idézet
 >> Ez egy beágyazott idézet
