@@ -20,3 +20,5 @@ https://github.com/koterkristof/Git2
 🚀 Projekt indul
 ✅ Kész
 ⚠️ Figyelmeztetés
+# 7. Megjegyzések
+<! [Alternatív szöveg]>
