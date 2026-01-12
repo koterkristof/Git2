@@ -17,10 +17,7 @@ https://github.com/koterkristof/Git2
 | Anna | 25  | Budapest|
 | Péter| 30  | Szeged  |
 # 6. Emoji használata
-🚀 Projekt indul
-✅ Kész
-⚠️ Figyelmeztetés
-# 7. Megjegyzések
-<!-- TODO:
-- Dokumentáció bővítése
-- Példák hozzáadása -->
+:rocket:
+:white_check_mark:
+:x:
+
